@@ -6,7 +6,7 @@
 //  Input           :   Integer
 //  Output          :   void
 //  Description     :   accept  one number from user  and  print  number of * 
-//  Date            :   22/10/2026 
+//  Date            :   20/10/2026 
 //  Author          :   Aryan Shankar Gole
 //
 //////////////////////////////////////////////////////////////////////
