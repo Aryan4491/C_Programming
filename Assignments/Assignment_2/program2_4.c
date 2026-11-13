@@ -6,7 +6,7 @@
 //  Input           :   Integer, integer
 //  Output          :   void
 //  Description     :   Accept two number from user and displya first number in second number of times 
-//  Date            :   22/10/2026 
+//  Date            :   20/10/2026 
 //  Author          :   Aryan Shankar Gole
 //
 //////////////////////////////////////////////////////////////////////
