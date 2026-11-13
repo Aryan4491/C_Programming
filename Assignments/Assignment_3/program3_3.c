@@ -6,7 +6,7 @@
 //  Input           :   Integer
 //  Output          :   void
 //  Description     :   accept  number from user and print its even factors
-//  Date            :   22/10/2026 
+//  Date            :   21/10/2026 
 //  Author          :   Aryan Shankar Gole
 //
 //////////////////////////////////////////////////////////////////////
