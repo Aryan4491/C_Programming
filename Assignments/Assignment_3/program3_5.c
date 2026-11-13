@@ -12,7 +12,7 @@ typedef int BOOL;
 //  Input           :   Charecter
 //  Output          :   boolean
 //  Description     :   accept  Charecter from user check Whether number is vowel or not 
-//  Date            :   22/10/2026 
+//  Date            :   21/10/2026 
 //  Author          :   Aryan Shankar Gole
 //
 //////////////////////////////////////////////////////////////////////
