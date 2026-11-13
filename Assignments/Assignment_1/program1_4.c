@@ -11,7 +11,7 @@ typedef int BOOL;
 //  Input           :   Integer
 //  Output          :   Boolean
 //  Description     :   It used to Check the input number is divisible by 5  
-//  Date            :   22/10/2026 
+//  Date            :   20/10/2026 
 //  Author          :   Aryan Shankar Gole
 //
 //////////////////////////////////////////////////////////////////////
