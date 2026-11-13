@@ -6,7 +6,7 @@
 //  Input           :   Integer 
 //  Output          :   void
 //  Description     :   Checks whether the given integer is an even number or odd number
-//  Date            :   04/10/2026 
+//  Date            :   21/10/2026 
 //  Author          :   Aryan Shankar Gole
 //
 //////////////////////////////////////////////////////////////////////
