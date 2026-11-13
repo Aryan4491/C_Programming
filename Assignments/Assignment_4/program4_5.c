@@ -6,7 +6,7 @@
 //  Input           :   Integer 
 //  Output          :   void
 //  Description     :   It is used to check Whether the input number is Divisible by 5 or not 
-//  Date            :   04/10/2026 
+//  Date            :   21/10/2026 
 //  Author          :   Aryan Shankar Gole
 //
 //////////////////////////////////////////////////////////////////////
