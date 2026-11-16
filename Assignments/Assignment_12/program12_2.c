@@ -11,7 +11,7 @@ typedef int BOOL ;
 //  Input           :   Integer 
 //  Output          :   bool
 //  Description     :   It accept number from user and check whether it contain zero or not
-//  Date            :   04/10/2026 
+//  Date            :   01/11/2026 
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////
