@@ -6,7 +6,7 @@
 //  Input           :   Integer , Integer 
 //  Output          :   Integer
 //  Description     :   It accept range from user and return addition of all Even number in that range
-//  Date            :   04/10/2026 
+//  Date            :   31/10/2026 
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////
