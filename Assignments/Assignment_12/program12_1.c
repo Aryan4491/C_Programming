@@ -6,7 +6,7 @@
 //  Input           :   Integer 
 //  Output          :   void
 //  Description     :   It accept number from user and display digits in reverse order
-//  Date            :   04/10/2026 
+//  Date            :   01/11/2026 
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////
