@@ -6,7 +6,7 @@
 //  Input           :   Integer , Integer , Integer 
 //  Output          :   Integer 
 //  Description     :   which accept three numbers from user and print its multiplication
-//  Date            :   04/10/2026 
+//  Date            :   04/11/2026 
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
