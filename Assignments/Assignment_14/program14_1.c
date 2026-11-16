@@ -6,7 +6,7 @@
 //  Input           :   Integer 
 //  Output          :   Integer 
 //  Description     :   It accept number from user and displya its multiplication of factors
-//  Date            :   04/10/2026 
+//  Date            :   03/11/2026
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
