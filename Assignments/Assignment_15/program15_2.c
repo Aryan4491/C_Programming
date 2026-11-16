@@ -10,7 +10,7 @@ typedef int BOOL ;
 //  Input           :   Integer 
 //  Output          :   boolean
 //  Description     :   which accept number from user check whether that number is greater 100 or not   
-//  Date            :   04/10/2026 
+//  Date            :   04/11/2026 
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
