@@ -10,7 +10,7 @@ typedef int BOOL ;
 //  Input           :   Integer ,  Integer
 //  Output          :   boolean
 //  Description     :   which accept two number  from user check whether that numbers are equal or not  
-//  Date            :   04/10/2026 
+//  Date            :   04/11/2026 
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
