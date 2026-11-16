@@ -7,7 +7,7 @@
 //  Input           :   Integer 
 //  Output          :   Integer 
 //  Description     :   It accept number from user and return count of even Digits
-//  Date            :   04/10/2026 
+//  Date            :   02/11/2026
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////
