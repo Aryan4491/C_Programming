@@ -6,7 +6,7 @@
 //  Input           :   Integer 
 //  Output          :   Integer 
 //  Description     :   which accept total marks and obtained marks from user and calculate percentage
-//  Date            :   04/10/2026 
+//  Date            :   04/11/2026 
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
