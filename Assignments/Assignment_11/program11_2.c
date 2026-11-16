@@ -6,7 +6,7 @@
 //  Input           :   Integer , Integer 
 //  Output          :   void
 //  Description     :   It accept range from user and display all Even number  in that range
-//  Date            :   04/10/2026 
+//  Date            :   31/10/2026 
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////
