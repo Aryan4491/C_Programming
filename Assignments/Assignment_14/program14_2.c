@@ -6,7 +6,7 @@
 //  Input           :   Integer 
 //  Output          :   void
 //  Description     :   It accept number from user and displya its  factors in decreasing order
-//  Date            :   04/10/2026 
+//  Date            :   03/11/2026
 //  Author          :   Aryan Shankar Gole
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
