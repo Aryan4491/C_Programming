@@ -1,0 +1,54 @@
+#include <stdio.h>
+#include<stdlib.h>
+
+#define TRUE 1
+#define FALSE 0
+
+typedef int BOOL;
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// 
+//  Function name   :   ChkVowel
+//  Input           :   String 
+//  Output          :   Boolean
+//  Description     :   Accept string from user and check whether it conatains vowels or not 
+//  Date            :   18/11/2026  
+//  Author          :   Aryan Shankar Gole
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+BOOL ChkVowel(char *str)
+{
+    while (*str != '\0')
+    {
+        if (*str == 'a' || *str == 'e' || *str == 'i' || *str == 'o' || *str == 'u' ||
+            *str == 'A' || *str == 'E' || *str == 'I' || *str == 'O' || *str == 'U')
+        {
+            return TRUE;
+        }
+
+        str++;
+    }
+
+    return FALSE;
+}
+
+int main()
+{
+    char arr[20];
+    BOOL bRet = FALSE;
+
+    printf("Enter string: ");
+    scanf("%19[^\n]", arr);
+
+    bRet = ChkVowel(arr);
+
+    if (bRet == TRUE)
+    {
+        printf("Contains Vowel");
+    }
+    else
+    {
+        printf("There is no Vowel");
+    }
+
+    return EXIT_SUCCESS;
+}
